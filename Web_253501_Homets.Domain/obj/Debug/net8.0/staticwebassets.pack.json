@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ASP.NET\\Web_253501_Homets\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web_253501_Homets.Domain.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\ASP.NET\\Web_253501_Homets\\Web_253501_Homets.Domain\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\ASP.NET\\Web_253501_Homets\\Web_253501_Homets.Domain\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_253501_Homets.Domain.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_253501_Homets.Domain.props",
+      "PackagePath": "build\\Web_253501_Homets.Domain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_253501_Homets.Domain.props",
+      "PackagePath": "buildMultiTargeting\\Web_253501_Homets.Domain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_253501_Homets.Domain.props",
+      "PackagePath": "buildTransitive\\Web_253501_Homets.Domain.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

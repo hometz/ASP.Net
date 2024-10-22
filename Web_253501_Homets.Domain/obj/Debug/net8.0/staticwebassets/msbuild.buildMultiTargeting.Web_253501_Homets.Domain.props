@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_253501_Homets.Domain.props" />
+</Project>

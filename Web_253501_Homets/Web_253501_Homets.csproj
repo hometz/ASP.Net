@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Web_253501_Homets.Domain\Web_253501_Homets.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxU1SlMfLatNV2ZFzH9y+U3jOHv2Ox6SCE4RNN6djxMpnCswva61bg21vMj7ugfqyerHPYGWC99qNy3/t3lLNw==",
+  "dgSpecHash": "5cBtZYpQwBwe2e+SWESpjnD1dz1OwMLWQaqoOMXXbus3D/vCTtez5V/cRvHur07gkKj0EO5RpYyPHUsPGVwm1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Артём\\Desktop\\Web_253501_Homets\\Web_253501_Homets\\Web_253501_Homets.csproj",
+  "projectFilePath": "C:\\ASP.NET\\Web_253501_Homets\\Web_253501_Homets\\Web_253501_Homets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артём\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\Артём\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
