@@ -1,12 +1,27 @@
-﻿
-     <div class="container text-center">
-        <a href="https://www.facebook.com" target="_blank" class="me-3" style="color: white;">
-            FaceBook
-        </a>
-        <a href="https://www.twitter.com" target="_blank" class="me-3" style="color: white;">
-            Twitter
-        </a>
-        <a href="https://www.instagram.com" target="_blank" class="me-3" style="color: white;">
-            Instagramm
-        </a>
-    </div>
+﻿@await Component.InvokeAsync("Cart")
+
+<div class="dropdown ms-4 nav-color">
+    <button class="btn btn-secondary dropdown-toggle"
+            type="button" id="dropdownMenuButton"
+            data-bs-toggle="dropdown"
+            aria-expanded="false">
+        User@gmail.com
+        <img src="images/avatar.png" width="30" alt="User" class="rounded nav-color" />
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <li>
+            <span class="dropdown-item-text">
+                <img src="images/avatar.png" width="50" alt="User" class="rounded" />
+                user@gmail.com
+            </span>
+        </li>
+        <li><hr class="dropdown-divider"></li>
+        <li>
+            <form id="logoutForm" asp-controller="Account" asp-action="LogOut" method="post" class="form-inline">
+                <button id="logout" type="submit" class="nav-link btn btn-link text-dark">
+                    Logout
+                </button>
+            </form>
+        </li>
+    </ul>
+</div>
