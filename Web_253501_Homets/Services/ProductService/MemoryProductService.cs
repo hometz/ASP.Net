@@ -11,13 +11,14 @@ namespace Web_253501_Homets.Services.ProductService
         private readonly int _pageSize;
         List<Dish> _dishes;
         List<Category> _categories;
+        private readonly IConfiguration _configuration;
 
 
         public MemoryProductService([FromServices] IConfiguration config,
                                     ICategoryService categoryService)
         {
-            _pageSize = config.GetValue<int>("ItemsPerPage");
             _categories = categoryService.GetCategoryListAsync().Result.Data;
+            _configuration = config;
             SetupData();
         }
 
@@ -38,30 +39,26 @@ namespace Web_253501_Homets.Services.ProductService
         }
 
 
-        public Task<ResponseData<ListModel<Dish>>> GetProductListAsync(string? categoryNormalizedName, int pageNo = 1)
+        public async Task<ResponseData<ListModel<Dish>>> GetProductListAsync(string? categoryNormalizedName, int pageNo = 1)
         {
+            var itemsPerPage = _configuration.GetValue<int>("ItemsPerPage");
+            var products = string.IsNullOrEmpty(categoryNormalizedName)
+                ? _dishes
+                : _dishes.Where(d => d.Category?.NormalizedName == categoryNormalizedName).ToList();
 
-            var filteredFruits = string.IsNullOrEmpty(categoryNormalizedName)
-            ? _dishes
-            : _dishes.Where(f => f.Category.NormalizedName.Equals(categoryNormalizedName, StringComparison.OrdinalIgnoreCase)).ToList();
+            var totalItems = products.Count;
+            var totalPages = (int)Math.Ceiling((double)totalItems / itemsPerPage);
 
+            var paginatedItems = products.Skip((pageNo - 1) * itemsPerPage).Take(itemsPerPage).ToList();
 
-            var pagedFruits = filteredFruits
-                .Skip((pageNo - 1) * _pageSize)
-                .Take(_pageSize)
-                .ToList();
-
-            var totalItems = filteredFruits.Count;
             var listModel = new ListModel<Dish>
             {
-                Items = pagedFruits,
-                TotalCount = totalItems,
+                Items = paginatedItems,
                 CurrentPage = pageNo,
-                PageSize = _pageSize,
-                TotalPages = (int)Math.Ceiling((double)totalItems / _pageSize)
+                TotalPages = totalPages
             };
 
-            return Task.FromResult(new ResponseData<ListModel<Dish>> { Data = listModel, Successfull = true });
+            return ResponseData<ListModel<Dish>>.Success(listModel);
         }
 
 

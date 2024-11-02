@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_253501_Homets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4352918e939669b7096df1f8f675b4c26eb09c8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f385daa95ddbdfae21dda28b2b599b1a1212fce2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_253501_Homets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_253501_Homets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
