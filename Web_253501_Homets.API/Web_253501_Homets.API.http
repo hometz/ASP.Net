@@ -1,0 +1,6 @@
+@Web_253501_Homets.API_HostAddress = http://localhost:5002
+
+GET {{Web_253501_Homets.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

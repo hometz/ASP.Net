@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_253501_Homets", "Web_253501_Homets\Web_253501_Homets.csproj", "{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_253501_Homets.Domain", "Web_253501_Homets.Domain\Web_253501_Homets.Domain.csproj", "{C73456A1-15E7-4183-949F-CB0137296D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_253501_Homets.Domain", "Web_253501_Homets.Domain\Web_253501_Homets.Domain.csproj", "{C73456A1-15E7-4183-949F-CB0137296D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_253501_Homets.API", "Web_253501_Homets.API\Web_253501_Homets.API.csproj", "{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C73456A1-15E7-4183-949F-CB0137296D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73456A1-15E7-4183-949F-CB0137296D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C73456A1-15E7-4183-949F-CB0137296D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

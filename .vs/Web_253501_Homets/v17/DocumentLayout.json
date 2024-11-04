@@ -1,149 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ASP\\ASP.Net\\",
+  "WorkspaceRootPath": "C:\\ASP.NET\\ASP.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\wwwroot\\images\\default_njl5kff.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\wwwroot\\images\\default_njl5kff.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\wwwroot\\images\\default_njl5kff.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\wwwroot\\images\\tomato.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\wwwroot\\images\\tomato.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\wwwroot\\images\\tomato.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\wwwroot\\images\\pure.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\wwwroot\\images\\pure.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\wwwroot\\images\\pure.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\wwwroot\\images\\margarita.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\wwwroot\\images\\margarita.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\wwwroot\\images\\margarita.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\web_253501_homets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\web_253501_homets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\web_253501_homets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp\\asp.net\\web_253501_homets.domain\\web_253501_homets.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|c:\\asp.net\\asp.net\\web_253501_homets.domain\\web_253501_homets.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C73456A1-15E7-4183-949F-CB0137296D86}|Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj|solutionrelative:web_253501_homets.domain\\web_253501_homets.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp\\asp.net\\web_253501_homets\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|c:\\asp.net\\asp.net\\web_253501_homets\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7FF75A4-9F17-468E-B5AC-B6AFE9FBF18F}|Web_253501_Homets\\Web_253501_Homets.csproj|solutionrelative:web_253501_homets\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -154,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,49 +166,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemoryProductService.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
-              "RelativeToolTip": "Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:15:33.39Z",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web_253501_Homets.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web_253501_Homets.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T08:37:04.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "HostingExtensions.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Extensions\\HostingExtensions.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Extensions\\HostingExtensions.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Extensions\\HostingExtensions.cs",
-              "RelativeToolTip": "Web_253501_Homets\\Extensions\\HostingExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:38:42.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Web_253501_Homets\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:04:17.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
               "RelativeToolTip": "Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,71 +192,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductListModel.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
               "RelativeToolTip": "Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:57:20.347Z"
+              "WhenOpened": "2024-10-19T11:57:20.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAOAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T17:54:43.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T22:05:42.41Z"
+              "WhenOpened": "2024-10-17T22:05:42.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T17:42:53.299Z"
+              "WhenOpened": "2024-09-27T17:42:53.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "default_NJl5kFf.jpg",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
-              "RelativeToolTip": "Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-10-10T21:14:03.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -286,24 +257,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Web_253501_Homets\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:04:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "Web_253501_Homets\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:38:42.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemoryProductService.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeToolTip": "Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:15:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "default_NJl5kFf.jpg",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
+              "RelativeToolTip": "Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-10T21:14:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-25T10:13:42.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\appsettings.json",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\appsettings.json",
               "RelativeDocumentMoniker": "Web_253501_Homets\\appsettings.json",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\appsettings.json",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\appsettings.json",
               "RelativeToolTip": "Web_253501_Homets\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -311,16 +332,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MemoryCategoryService.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
               "RelativeToolTip": "Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,11 +346,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
               "RelativeToolTip": "Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,264 +359,287 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ResponseData.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ResponseData.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ResponseData.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Models\\ResponseData.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ResponseData.cs",
               "RelativeToolTip": "Web_253501_Homets.Domain\\Models\\ResponseData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:53:15.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T10:31:23.849Z"
+              "WhenOpened": "2024-10-19T11:53:15.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "_UserInfoPartial.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T22:07:22.508Z"
+              "WhenOpened": "2024-10-10T10:31:23.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web_253501_Homets\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T17:36:10.365Z"
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T22:07:22.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Web_253501_Homets\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_253501_Homets\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T17:43:16.494Z"
+              "WhenOpened": "2024-09-27T17:36:10.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Program.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Program.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Program.cs",
-              "RelativeToolTip": "Web_253501_Homets\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Web_253501_Homets\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T17:43:24.602Z"
+              "WhenOpened": "2024-09-27T17:43:16.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Dish.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Entities\\Dish.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Dish.cs",
-              "RelativeToolTip": "Web_253501_Homets.Domain\\Entities\\Dish.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Program.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Program.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Program.cs",
+              "RelativeToolTip": "Web_253501_Homets\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:24:59.248Z"
+              "WhenOpened": "2024-09-27T17:43:24.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Web_253501_Homets\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T20:33:46.465Z"
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Entities\\Dish.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Dish.cs",
+              "RelativeToolTip": "Web_253501_Homets.Domain\\Entities\\Dish.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:24:59.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web_253501_Homets\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:33:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Tomato.jpg",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
               "RelativeToolTip": "Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-10-25T09:49:54.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Pure.jpg",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
               "RelativeToolTip": "Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-10-25T09:49:40.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Margarita.png",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Margarita.png",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Margarita.png",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\Margarita.png",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Margarita.png",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Margarita.png",
               "RelativeToolTip": "Web_253501_Homets\\wwwroot\\images\\Margarita.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-10-25T09:49:34.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Category.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Category.cs",
               "RelativeToolTip": "Web_253501_Homets.Domain\\Entities\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:26:36.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Web_253501_Homets.csproj",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Web_253501_Homets.csproj",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
-              "RelativeToolTip": "Web_253501_Homets\\Web_253501_Homets.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T14:54:20.646Z"
+              "WhenOpened": "2024-10-19T11:26:36.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\_Imports.razor",
-              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\_Imports.razor",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\_Imports.razor",
-              "RelativeToolTip": "Web_253501_Homets.Domain\\_Imports.razor",
+              "Title": "Web_253501_Homets.csproj",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Web_253501_Homets.csproj",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
+              "RelativeToolTip": "Web_253501_Homets\\Web_253501_Homets.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T11:27:45.406Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T14:54:20.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Component1.razor",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Component1.razor",
-              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Component1.razor",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Component1.razor",
-              "RelativeToolTip": "Web_253501_Homets.Domain\\Component1.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\_Imports.razor",
+              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\_Imports.razor",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\_Imports.razor",
+              "RelativeToolTip": "Web_253501_Homets.Domain\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T11:23:53.493Z"
+              "WhenOpened": "2024-10-19T11:27:45.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Web_253501_Homets.Domain.csproj",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
-              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
-              "RelativeToolTip": "Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-19T11:23:39.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CartViewComponent.cs",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
-              "RelativeToolTip": "Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:16:20.329Z"
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Component1.razor",
+              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Component1.razor",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Component1.razor",
+              "RelativeToolTip": "Web_253501_Homets.Domain\\Component1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T11:23:53.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
-              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T09:08:25.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Web_253501_Homets\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T20:26:16.202Z"
+              "Title": "Web_253501_Homets.Domain.csproj",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+              "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+              "RelativeToolTip": "Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T11:23:39.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Web_253501_Homets\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:16:20.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T20:33:47.275Z"
+              "WhenOpened": "2024-10-18T09:08:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Web_253501_Homets\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T20:26:16.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web_253501_Homets\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T20:33:45.245Z"
+              "WhenOpened": "2024-10-10T20:33:47.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:33:45.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T20:33:42.126Z"
+              "WhenOpened": "2024-10-10T20:33:42.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
