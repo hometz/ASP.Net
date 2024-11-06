@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\ASP.NET\\ASP.Net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\controllers\\dishes1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\controllers\\dishes1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|c:\\asp.net\\asp.net\\web_253501_homets.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A659E3D2-38FF-4E12-9EB7-DE981AC2B234}|Web_253501_Homets.API\\Web_253501_Homets.API.csproj|solutionrelative:web_253501_homets.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -167,6 +187,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dishes1Controller.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Controllers\\Dishes1Controller.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets.API\\Controllers\\Dishes1Controller.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Controllers\\Dishes1Controller.cs",
+              "RelativeToolTip": "Web_253501_Homets.API\\Controllers\\Dishes1Controller.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:54:56.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets.API\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Web_253501_Homets.API\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:14:09.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_253501_Homets.API\\appsettings.json",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\appsettings.json",
+              "RelativeToolTip": "Web_253501_Homets.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T11:13:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Web_253501_Homets.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:12:16.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Program.cs",
+              "RelativeDocumentMoniker": "Web_253501_Homets.API\\Program.cs",
+              "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Program.cs",
+              "RelativeToolTip": "Web_253501_Homets.API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:59:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Web_253501_Homets.API\\Properties\\launchSettings.json",
@@ -179,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\ProductService\\IProductService.cs",
@@ -192,33 +277,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ProductListModel.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
               "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
               "RelativeToolTip": "Web_253501_Homets.Domain\\Models\\ProductListModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T11:57:20.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwCwAAAAOAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBZwCwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T17:54:43.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "_MenuPartial.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_MenuPartial.cshtml",
@@ -231,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Home\\Index.cshtml",
@@ -244,20 +329,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
               "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Web_253501_Homets\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-18T09:30:39.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Controllers\\ProductController.cs",
@@ -270,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "HostingExtensions.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Extensions\\HostingExtensions.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Extensions\\HostingExtensions.cs",
@@ -283,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "MemoryProductService.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\ProductService\\MemoryProductService.cs",
@@ -296,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "default_NJl5kFf.jpg",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\default_NJl5kFf.jpg",
@@ -307,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Product\\Index.cshtml",
@@ -320,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\appsettings.json",
               "RelativeDocumentMoniker": "Web_253501_Homets\\appsettings.json",
@@ -333,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MemoryCategoryService.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\CategoryService\\MemoryCategoryService.cs",
@@ -346,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Services\\CategoryService\\ICategoryService.cs",
@@ -359,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ResponseData.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Models\\ResponseData.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Models\\ResponseData.cs",
@@ -372,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -385,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "_UserInfoPartial.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\_UserInfoPartial.cshtml",
@@ -398,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Controllers\\HomeController.cs",
@@ -411,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Models\\ErrorViewModel.cs",
@@ -424,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Program.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Program.cs",
@@ -437,20 +522,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Entities\\Dish.cs",
               "ToolTip": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Dish.cs",
               "RelativeToolTip": "Web_253501_Homets.Domain\\Entities\\Dish.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T11:24:59.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\_ViewImports.cshtml",
@@ -463,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Tomato.jpg",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\Tomato.jpg",
@@ -474,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Pure.jpg",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\Pure.jpg",
@@ -485,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Margarita.png",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\images\\Margarita.png",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\images\\Margarita.png",
@@ -496,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Entities\\Category.cs",
@@ -509,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Web_253501_Homets.csproj",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Web_253501_Homets.csproj",
@@ -522,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\_Imports.razor",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\_Imports.razor",
@@ -535,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Component1.razor",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Component1.razor",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Component1.razor",
@@ -548,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Web_253501_Homets.Domain.csproj",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
               "RelativeDocumentMoniker": "Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
@@ -561,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "CartViewComponent.cs",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
               "RelativeDocumentMoniker": "Web_253501_Homets\\ViewComponents\\CartViewComponent.cs",
@@ -574,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\Components\\Cart\\Default.cshtml",
@@ -587,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "site.css",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Web_253501_Homets\\wwwroot\\css\\site.css",
@@ -600,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\_ViewStart.cshtml",
@@ -613,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Shared\\Error.cshtml",
@@ -626,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Web_253501_Homets\\Views\\Home\\Privacy.cshtml",

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Cezar.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Cezar.jpeg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Karbonara.jpg",
+      "PackagePath": "staticwebassets\\Images\\Karbonara.jpg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Krevetki.jpg",
+      "PackagePath": "staticwebassets\\Images\\Krevetki.jpg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Margarita.png",
+      "PackagePath": "staticwebassets\\Images\\Margarita.png"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Pesto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Pesto.jpg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Pure.jpg",
+      "PackagePath": "staticwebassets\\Images\\Pure.jpg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Steik.jpg",
+      "PackagePath": "staticwebassets\\Images\\Steik.jpg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Tomato.jpg",
+      "PackagePath": "staticwebassets\\Images\\Tomato.jpg"
+    },
+    {
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\default_NJl5kFf.jpg",
+      "PackagePath": "staticwebassets\\Images\\default_NJl5kFf.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_253501_Homets.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_253501_Homets.API.props",
+      "PackagePath": "build\\Web_253501_Homets.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_253501_Homets.API.props",
+      "PackagePath": "buildMultiTargeting\\Web_253501_Homets.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_253501_Homets.API.props",
+      "PackagePath": "buildTransitive\\Web_253501_Homets.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

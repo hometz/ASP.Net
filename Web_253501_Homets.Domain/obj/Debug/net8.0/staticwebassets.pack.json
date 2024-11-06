@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css",
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css",
       "PackagePath": "staticwebassets\\Web_253501_Homets.Domain.bundle.scp.css"
     },
     {
-      "Id": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\background.png",
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
     },
     {
-      "Id": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\exampleJsInterop.js",
+      "Id": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {
