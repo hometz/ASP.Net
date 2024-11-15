@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "tRReaZ39W06yl8N2I2Pre0aa+NIRzKLD4dF0Ctt70co=",
+  "Hash": "tqGSbXbPm+eMpazV15zg8ecjfyIYo1ayNpmQM/qTQos=",
   "Source": "Web_253501_Homets.API",
   "BasePath": "_content/Web_253501_Homets.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
       "Version": 2,
       "Source": "Web_253501_Homets.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,24 +22,24 @@
     {
       "Name": "Web_253501_Homets.API\\wwwroot",
       "Source": "Web_253501_Homets.API",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "Pattern": "**"
     },
     {
       "Name": "Web_253501_Homets.Domain\\wwwroot",
       "Source": "Web_253501_Homets.Domain",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.Domain",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_253501_Homets.API.styles.css",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_253501_Homets.API.styles.css",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Web_253501_Homets.API.styles.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_253501_Homets.API.styles.css"
+      "OriginalItemSpec": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web_253501_Homets.API.styles.css"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Cezar.jpeg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Cezar.jpeg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Cezar.jpeg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Cezar.jpeg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\default_NJl5kFf.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\default_NJl5kFf.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/default_NJl5kFf.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\default_NJl5kFf.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Karbonara.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Karbonara.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Karbonara.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Karbonara.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Krevetki.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Krevetki.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Krevetki.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Krevetki.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Margarita.png",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Margarita.png",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Margarita.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Margarita.png"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Pesto.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Pesto.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Pesto.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Pesto.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Pure.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Pure.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Pure.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Pure.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Steik.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Steik.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Steik.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Steik.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Tomato.jpg",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\Images\\Tomato.jpg",
       "SourceId": "Web_253501_Homets.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.API",
       "RelativePath": "Images/Tomato.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Tomato.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css",
       "SourceId": "Web_253501_Homets.Domain",
       "SourceType": "Project",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Web_253501_Homets.Domain",
       "RelativePath": "Web_253501_Homets.Domain.bundle.scp.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css"
+      "OriginalItemSpec": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_253501_Homets.Domain.bundle.scp.css"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\background.png",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\background.png",
       "SourceId": "Web_253501_Homets.Domain",
       "SourceType": "Project",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.Domain",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\exampleJsInterop.js",
       "SourceId": "Web_253501_Homets.Domain",
       "SourceType": "Project",
-      "ContentRoot": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\",
+      "ContentRoot": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\wwwroot\\",
       "BasePath": "_content/Web_253501_Homets.Domain",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

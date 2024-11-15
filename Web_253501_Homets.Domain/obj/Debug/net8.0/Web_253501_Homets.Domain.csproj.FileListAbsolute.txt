@@ -72,3 +72,5 @@ C:\ASP.NET\ASP.Net\Web_253501_Homets.Domain\obj\Debug\net8.0\Web_253501_Homets.D
 C:\ASP.NET\ASP.Net\Web_253501_Homets.Domain\obj\Debug\net8.0\ref\Web_253501_Homets.Domain.dll
 C:\ASP.NET\ASP.Net\Web_253501_Homets.Domain\bin\Debug\net8.0\Web_253501_Homets.Domain.runtimeconfig.json
 C:\ASP.NET\ASP.Net\Web_253501_Homets.Domain\obj\Debug\net8.0\Web_253501_Homets.Domain.genruntimeconfig.cache
+C:\ASP\ASP.Net\Web_253501_Homets.Domain\bin\Debug\net8.0\Web_253501_Homets.Domain.runtimeconfig.json
+C:\ASP\ASP.Net\Web_253501_Homets.Domain\obj\Debug\net8.0\Web_253501_Homets.Domain.genruntimeconfig.cache

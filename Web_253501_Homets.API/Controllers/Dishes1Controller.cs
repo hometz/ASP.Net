@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Web_253501_Homets.API.Data;
 using Web_253501_Homets.Domain.Entities;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System;
 
 namespace Web_253501_Homets.API.Controllers
 {
@@ -23,9 +22,44 @@ namespace Web_253501_Homets.API.Controllers
 
         // GET: api/Dishes1
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Dish>>> GetDishes()
+        public async Task<ActionResult<PagedResponse<Dish>>> GetDishes(string? category = null, int page = 1, int pageSize = 10)
         {
-            return await _context.Dishes.ToListAsync();
+            // Стартуем запрос с получения всех блюд
+            IQueryable<Dish> query = _context.Dishes.Include(d => d.Category);
+
+            // Фильтрация по категории
+            if (!string.IsNullOrEmpty(category))
+            {
+                query = query.Where(d => d.Category.NormalizedName == category);
+            }
+
+            // Получение общего количества блюд
+            var totalItems = await query.CountAsync();
+            var totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
+
+            // Получение списка блюд для текущей страницы
+            var dishes = await query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            // Если нет данных, возвращаем ошибку
+            if (!dishes.Any())
+            {
+                return NotFound(new { Message = "Нет доступных блюд для указанной категории." });
+            }
+
+            // Создаем объект с данными и метаинформацией о пагинации
+            var pagedResponse = new PagedResponse<Dish>
+            {
+                Items = dishes,
+                TotalPages = totalPages,
+                CurrentPage = page,
+                TotalItems = totalItems
+            };
+
+            // Возвращаем успешный результат с данными
+            return Ok(pagedResponse);
         }
 
         // GET: api/Dishes1/5
@@ -104,5 +138,14 @@ namespace Web_253501_Homets.API.Controllers
         {
             return _context.Dishes.Any(e => e.Id == id);
         }
+    }
+
+    // Класс для ответа с пагинацией
+    public class PagedResponse<T>
+    {
+        public IEnumerable<T> Items { get; set; }
+        public int TotalPages { get; set; }
+        public int CurrentPage { get; set; }
+        public int TotalItems { get; set; }
     }
 }

@@ -1,23 +1,129 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj": {}
+    "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj": {}
   },
   "projects": {
-    "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj": {
+    "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\Web_253501_Homets.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
-        "projectName": "Web_253501_Homets.Domain",
-        "projectPath": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
-        "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\obj\\",
+        "projectUniqueName": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\Web_253501_Homets.API.csproj",
+        "projectName": "Web_253501_Homets.API",
+        "projectPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\Web_253501_Homets.API.csproj",
+        "packagesPath": "C:\\Users\\homet\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\homet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj": {
+                "projectPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+        "projectName": "Web_253501_Homets.Domain",
+        "projectPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj",
+        "packagesPath": "C:\\Users\\homet\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\homet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,24 +191,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj": {
+    "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
+        "projectUniqueName": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
         "projectName": "Web_253501_Homets",
-        "projectPath": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
-        "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets\\obj\\",
+        "projectPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\Web_253501_Homets.csproj",
+        "packagesPath": "C:\\Users\\homet\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\homet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -118,8 +224,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj": {
-                "projectPath": "C:\\ASP.NET\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj"
+              "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\Web_253501_Homets.API.csproj": {
+                "projectPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.API\\Web_253501_Homets.API.csproj"
+              },
+              "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj": {
+                "projectPath": "C:\\ASP\\ASP.Net\\Web_253501_Homets.Domain\\Web_253501_Homets.Domain.csproj"
               }
             }
           }
@@ -141,17 +250,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -173,7 +282,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

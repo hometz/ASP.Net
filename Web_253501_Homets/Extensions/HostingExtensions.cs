@@ -1,5 +1,4 @@
-﻿using Web_253501_Homets.Services.CategoryService;
-using Web_253501_Homets.Services.ProductService;
+﻿using Web_253501_Homets.API.Services;
 
 namespace Web_253501_Homets.Extensions
 {
@@ -7,8 +6,8 @@ namespace Web_253501_Homets.Extensions
     {
         public static void RegisterCustomServices(this WebApplicationBuilder builder)
         {
-            builder.Services.AddScoped<ICategoryService, MemoryCategoryService>();
-            builder.Services.AddScoped<IProductService, MemoryProductService>();
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
         }
     }
 }

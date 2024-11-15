@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Web_253501_Homets.Services.CategoryService;
-using Web_253501_Homets.Services.ProductService;
+
+using Web_253501_Homets.API.Services;
 
 namespace Web_253501_Homets.Controllers
 {
@@ -17,16 +17,19 @@ namespace Web_253501_Homets.Controllers
 
         public async Task<IActionResult> Index(string? category = null, int pageNo = 1)
         {
-            var response = await _categoryService.GetCategoryListAsync();
-            var categories = response.Data;
+            // Получение списка категорий из базы данных
+            var responseCategories = await _categoryService.GetCategoryListAsync();
+            var categories = responseCategories.Data;
 
+            // Получаем название текущей категории для отображения
             var currentCategory = categories?.FirstOrDefault(c => c.NormalizedName == category)?.Name ?? "Все";
             ViewData["categories"] = categories;
             ViewData["currentCategory"] = currentCategory;
             ViewData["currentCategoryNormalizedName"] = category;
 
-            var products = await _productService.GetProductListAsync(category, pageNo);
-            var model = products.Data;
+            // Получаем список товаров для выбранной категории с пагинацией
+            var responseProducts = await _productService.GetProductListAsync(category, pageNo);
+            var model = responseProducts.Data;
 
             return View(model);
         }
